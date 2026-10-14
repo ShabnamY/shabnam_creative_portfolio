@@ -2,6 +2,10 @@
 
 Responsive single-page portfolio using plain HTML, CSS and JavaScript.
 
+## 🔗 Live Portfolio
+
+**Live Demo:** https://shabnamcreativeportfolio.vercel.app/
+
 ## AI-Assisted Design & Development
 
 This portfolio was developed through an iterative AI-assisted workflow
